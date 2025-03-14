@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋 I'm Souvik Swain
 
-<!--
-**XoRonnyXo/XoRonnyXo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **developer** and **machine learning enthusiast** with a knack for solving problems through code and data. I enjoy building efficient solutions and exploring the realms of artificial intelligence.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, C, C++, Python  
+- **Machine Learning & AI**: Model building (TensorFlow, PyTorch, Scikit-learn), Neural Networks, Data Analysis  
+- **Other Tools**: Git, [Add more e.g., "Docker," "Linux," "SQL"]  
+- **Interests**: Algorithms, Software Development, [Add more e.g., "Web Dev," "Robotics"]  
+
+## 🌟 What I’m Up To
+
+- 🔭 Working on: [e.g., "a Python-based ML classifier" or "optimizing C++ algorithms"]  
+- 🌱 Learning: [e.g., "Deep Learning," "System Design"]  
+- 💡 Exploring: [e.g., "AI-driven automation," "open-source contributions"]  
+
+## 📊 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 📫 Let’s Connect!
+
+- [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [Email](mailto:your-email@example.com)  
+- [Twitter/X](https://twitter.com/your-twitter) (optional)  
+
+---
+
+*"Code is like poetry—elegant when it works, frustrating when it doesn’t."*  
+Happy coding! 🚀
